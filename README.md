@@ -1,4 +1,4 @@
-ping_pong.js
+table_tennis.js
 =======
 
-Ping pong for javascript
+Table Tennis for javascript
